@@ -1,4 +1,4 @@
-# MiniGPT-V
+# MiniGPT-4
 
 <font size='5'>**MiniGPT-v2: Large Language Model as a Unified Interface for Vision-Language Multi-task Learning**</font>
 
